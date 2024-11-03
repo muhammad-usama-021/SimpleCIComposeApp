@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.example.softech021.simplecicomposeapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.softech021.simplecicomposeapp"
-        minSdk = 26
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
